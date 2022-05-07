@@ -29,3 +29,4 @@ def divide(first_term: int, second_term: int) -> int:
     Divide two numbers
     """
     return first_term / second_term
+
