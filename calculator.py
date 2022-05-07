@@ -17,14 +17,15 @@ def subtract(first_term: int, second_term: int) -> int:
     return first_term - second_term
 
 
-# def multiply(first_term: int, second_term: int) -> int:
-#     """
-#     Multiply two numbers.
-#     """
-#     return first_term * second_term
+def multiply(first_term: int, second_term: int) -> int:
+    """
+    Multiply two numbers.
+    """
+    return first_term * second_term
 
-# def divide(first_term: int, second_term: int) -> int:
-#     """
-#     Divide two numbers
-#     """
-#     return first_term / second_term
+
+def divide(first_term: int, second_term: int) -> int:
+    """
+    Divide two numbers
+    """
+    return first_term / second_term
